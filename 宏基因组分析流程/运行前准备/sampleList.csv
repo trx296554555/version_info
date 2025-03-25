@@ -1,0 +1,9 @@
+Server,Sample_ID,Use_Sample,Group_1,Species,Ref,Download_link
+huatuo,S0001C,S0001C,F,Uropsilus gracilis,Uropsilus gracilis,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/004/024/945/GCA_004024945.1_UroGra_v1_BIUU/GCA_004024945.1_UroGra_v1_BIUU_genomic.fna.gz
+huatuo,S0002C,S0002C,F,Ochotona thibetana,Ochotona princeps,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/030/435/755/GCF_030435755.1_mOchPri1.hap1/GCF_030435755.1_mOchPri1.hap1_genomic.fna.gz
+huatuo,S0003C,S0003C,F,Ochotona thibetana,Ochotona princeps,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/030/435/755/GCF_030435755.1_mOchPri1.hap1/GCF_030435755.1_mOchPri1.hap1_genomic.fna.gz
+huatuo,S0004C,S0004C,F,Ochotona thibetana,Ochotona princeps,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/030/435/755/GCF_030435755.1_mOchPri1.hap1/GCF_030435755.1_mOchPri1.hap1_genomic.fna.gz
+huatuo,SAM001,SAM001,SAM,Homo sapiens,Homo sapiens,https://ftp.ensembl.org/pub/release-113/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz
+huatuo,CK002,CK002,CK,Homo sapiens,Homo sapiens,https://ftp.ensembl.org/pub/release-113/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz
+huatuo,张三,张三,CK,Homo sapiens,Homo sapiens,https://ftp.ensembl.org/pub/release-113/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz
+huatuo,Water1,Water1,F,none,none,https://ftp.ncbi.nlm.nih.gov/genomes/none.fna.gz
